@@ -1,0 +1,1 @@
+dit={"name":"Diyorbek","age":11}
